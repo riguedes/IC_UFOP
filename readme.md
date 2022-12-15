@@ -1,11 +1,33 @@
-# Formulario-da-COES
-Tela de Cadastro desenvolvida para inserir, alterar, atualizar, salvar e excluir dados.
+# Iniciação-Científica
+Projeto de Pesquisa: Ciência de Dados Aplicada aos Dados Abertos da Universidade Federal de Ouro Preto a partir dos Conjuntos de Dados de Assistencia Estudantil.
+
+## Resumo do Projeto
+Utilizar Ciência de Dados para identificar ideias, padrões e tendências nos conjuntos de dados de assistência estudantil no Portal aberto da Universidade Federal de Ouro Preto.
 
 ## Introdução
+A UFOP implementou um Portal de Dados Abertos que tem como objetivo disponibilizar para toda a comunidade dados e informações públicas da Instituição possibilitando a concretização do acesso a informação e o acompanhamento do funcionamento da Universidade. O portal possui 56 conjuntos de dados sobre todo o regimento da entidade e seus dados estão no estado "bruto" conseguindo estabeler como objetivos:
 
-Esse é um projeto para criar uma tela de cadastro comum para entender o sistema CRUD, sendo a interface desenvolvida no software FIGMA.
+1 - Interpretar conhecimentos a partir da análise de dados.
 
-## Linguagens Utilizadas
-Para esse projeto, utilizei HTML e CSS apenas para aprender técnicas necessárias para desenvolvimento de interfaces mais avançadas e aprimorar conhecimentos em front - end e web.
+2 - Usar Data Science para entender os desafios e limitações desses dados.
+
+3 - Identificar insights.
+
+## Justificativa e Relevância de Pesquisa
+A justificativa se baseia em buscar aplicação de computação em problemas reais do cotidiano e tratar de conteúdos de Sistemas de Informação e Ciência da Informação.
+
+## Metodologia
+1 - Natureza de Pesquisa: Aplicada.
+
+2 - Objetivos de Pesquisa: Exploratória.
+
+3 - Procedimentos de Pesquisa: Estudo de Caso.
+
+## Ferramentas Utilizadas
+1 - Phyton
+
+2 - MySQL
+
+3 - Overleaf / Látex
 
 ## Resultado do Projeto
