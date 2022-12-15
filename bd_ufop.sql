@@ -1,0 +1,1 @@
+select * from bolsistas_ic;
