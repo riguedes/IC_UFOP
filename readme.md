@@ -16,12 +16,16 @@ A UFOP implementou um Portal de Dados Abertos que tem como objetivo disponibiliz
 ## Justificativa e Relevância de Pesquisa
 A justificativa se baseia em buscar aplicação de computação em problemas reais do cotidiano e tratar de conteúdos de Sistemas de Informação e Ciência da Informação.
 
+![image](imagem1.png)
+
 ## Metodologia
 1 - Natureza de Pesquisa: Aplicada.
 
 2 - Objetivos de Pesquisa: Exploratória.
 
 3 - Procedimentos de Pesquisa: Estudo de Caso.
+
+![image](imagem2.png)
 
 ## Ferramentas Utilizadas
 1 - Phyton
