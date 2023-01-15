@@ -30,6 +30,4 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 
 3 - Overleaf / Látex
 
-4 - VS Code
-
-5 - Anaconda
+4 - Anaconda
