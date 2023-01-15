@@ -33,5 +33,3 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 4 - VS Code
 
 5 - Anaconda
-
-## Resultado do Projeto
