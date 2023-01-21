@@ -26,8 +26,6 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 ## Ferramentas Utilizadas
 1 - Phyton
 
-2 - MySQL
+2 -  Anaconda
 
-3 - Overleaf / Látex
-
-4 - Anaconda
+3 - Overleaf
