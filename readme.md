@@ -29,3 +29,5 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 2 -  Anaconda
 
 3 - Overleaf
+
+4 - Jupyter Notebook
