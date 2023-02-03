@@ -2,9 +2,9 @@
 Projeto de Pesquisa: Ciência de Dados Aplicada aos Dados Abertos da Universidade Federal de Ouro Preto a partir dos Conjuntos de Dados de Assistencia Estudantil.
 
 ## Resumo do Projeto
-Utilizar Ciência de Dados para identificar padrões, tendências e criar insights sobre os dados de assistência estudantil da UFOP.
+Utilizar Ciência de Dados para identificar padrões, tendências e criar insights sobre os dados de assistência estudantil da UFOP disponibilizados no Portal de Dados da universidade em questão: http://dados.ufop.br/.
 
-## Introdução
+## Objetivos
 
 1 - Interpretar conhecimentos a partir da análise de dados.
 
@@ -30,3 +30,5 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 3 - Overleaf
 
 4 - Jupyter Notebook
+
+## Questões a serem respondidas
