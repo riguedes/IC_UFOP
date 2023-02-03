@@ -1,7 +1,7 @@
 # Iniciação-Científica
 Projeto de Pesquisa: Ciência de Dados Aplicada aos Dados Abertos da Universidade Federal de Ouro Preto a partir dos Conjuntos de Dados de Assistencia Estudantil.
 
-## Resumo do Projet
+## Resumo do Projeto
 Utilizar Ciência de Dados para identificar padrões, tendências e criar insights sobre os dados de assistência estudantil da UFOP.
 
 ## Introdução
