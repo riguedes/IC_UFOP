@@ -32,3 +32,11 @@ A justificativa se baseia em buscar aplicação de computação em problemas rea
 4 - Jupyter Notebook
 
 ## Questões a serem respondidas
+
+1. Em quais tipos de projetos (entre os de pesquisa e os de extensão) os discentes beneficiados com programas de assistência estudantil da UFOP têm maior 
+participação?
+
+2. Qual modalidade de participação nos projetos de extensão (bolsista ou voluntário) os discentes beneficiados com programas de assistência estudantil da UFOP têm
+maior participação? 
+
+3. Os discentes beneficiados com programas de assistência estudantil também ingressam nos programas de pos-graduação?
