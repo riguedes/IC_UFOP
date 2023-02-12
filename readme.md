@@ -39,4 +39,4 @@ participação?
 2. Qual modalidade de participação nos projetos de extensão (bolsista ou voluntário) os discentes beneficiados com programas de assistência estudantil da UFOP têm
 maior participação? 
 
-3. Os discentes beneficiados com programas de assistência estudantil também ingressam nos programas de pos-graduação?
+3. Os discentes beneficiados com programas de assistência estudantil também ingressam nos programas de pós-graduação?
